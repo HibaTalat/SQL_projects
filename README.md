@@ -12,5 +12,9 @@ Major concepts covered :
 5. Delete Duplicates by using CTE
 6. Column names display 
 7. Drop Columns
+
 This project was inspired by 
 https://www.youtube.com/watch?v=8rO7ztF4NtU&t=147s&ab_channel=AlexTheAnalyst
+
+Resources:
+https://www.youtube.com/watch?v=bB2PJjI9q7Q&ab_channel=SunilKumar
